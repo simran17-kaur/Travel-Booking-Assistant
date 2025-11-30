@@ -10,7 +10,7 @@ The Travel Assistant is an AI-powered platform that simplifies booking travel co
 - **PDF Knowledge Base**: Integrates a RAG pipeline for accurate answers from travel documents.
 - **Persistent Memory**: Remembers conversation history for context-aware responses.
 
-## 🛠️ Technology Stack
+## 🛠️ Technology 
 
 - **Frontend**: Streamlit
 - **AI/ML**: LangChain, Groq LLM, FAISS, Sentence Transformers
